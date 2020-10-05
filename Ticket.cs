@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TicketingSystem
 {
-    public class Movie
+    public class Ticket
     {
         public UInt64 ticketId { get; set; }
         public string summary { get; set; }
