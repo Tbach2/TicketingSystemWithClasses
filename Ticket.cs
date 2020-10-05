@@ -12,5 +12,15 @@ namespace TicketingSystem
         public string submitter { get; set; }
         public string assigned { get; set; }
         public List<string> watching { get; set; }
+    
+        public Ticket()
+        {
+            watching = new List<string>();
+        }
+
+        public string Display()
+        {
+            return $"{ticketId},{summary},{status},{priority},{submitter},{assigned},{string.Join("|", watching)}";
+        }
     }
 }
