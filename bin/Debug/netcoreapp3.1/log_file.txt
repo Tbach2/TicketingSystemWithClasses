@@ -1,0 +1,12 @@
+2020-10-04 22:39:38.4191|INFO|TicketingSystem.Program|Program started
+2020-10-04 22:39:38.4511|ERROR|TicketingSystem.TicketFile|Could not find file 'C:\Users\bachs\Desktop\School\.Net Databases\Class 6\TicketingSystem\tickets.csv'.
+2020-10-04 22:39:40.7493|INFO|TicketingSystem.Program|User choice: "1"
+2020-10-04 22:40:16.9036|INFO|TicketingSystem.Program|Program started
+2020-10-04 22:40:16.9350|INFO|TicketingSystem.TicketFile|Tickets in file 1
+2020-10-04 22:42:53.1516|INFO|TicketingSystem.Program|Program started
+2020-10-04 22:42:53.1868|INFO|TicketingSystem.TicketFile|Tickets in file 2
+2020-10-04 22:42:57.4051|INFO|TicketingSystem.Program|User choice: "2"
+2020-10-04 22:43:01.3716|INFO|TicketingSystem.Program|User choice: "1"
+2020-10-04 22:43:08.8785|INFO|TicketingSystem.TicketFile|Ticket id 3 added
+2020-10-04 22:43:24.2298|INFO|TicketingSystem.Program|User choice: ""
+2020-10-04 22:43:24.2298|INFO|TicketingSystem.Program|Program ended
